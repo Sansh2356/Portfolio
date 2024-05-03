@@ -18,6 +18,11 @@
   <li>Hosting and cutom domain</li>
 </ul>
 <h1>Output and Demo</h1>
-[![Video](https://img.youtube.com/vi/nAlP2FoWKUs/maxresdefault.jpg)](https://www.youtube.com/watch?v=nAlP2FoWKUs)
+
+
+
+https://github.com/Sansh2356/Portfolio/assets/114384772/fe129e51-5d50-4823-ad67-e1ca0ae0b4ad
+
+
 
 
