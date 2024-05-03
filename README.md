@@ -17,3 +17,7 @@
   <li>Increasing the responsiveness and making it more accesible</li>
   <li>Hosting and cutom domain</li>
 </ul>
+<h1>Output and Demo</h1>
+[![Video](https://img.youtube.com/vi/nAlP2FoWKUs/maxresdefault.jpg)](https://www.youtube.com/watch?v=nAlP2FoWKUs)
+
+
