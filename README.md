@@ -1,8 +1,19 @@
-# React + Vite
+## My Personal Portfolio Using:-
+<ul>
+  <li>Tailwind CSS</li>
+  <li>React js</li>
+  <li>Three js</li>
+</ul>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Obligations 
+<ul>
+  <li>Model used is taken from the https://sketchfab.com/3d-models/popular a good find for 3-D models free also avilable.</li>
+  <li>Converting the model i.e. from glb/GLTF format to React format using the https://gltf.pmnd.rs/</li>
+</ul>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Left over To be udpated accordingly 
+<ul>
+  <li>Completing the Contact page</li>
+  <li>Increasing the responsiveness and making it more accesible</li>
+  <li>Hosting and cutom domain</li>
+</ul>
